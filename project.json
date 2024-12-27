@@ -1,0 +1,23 @@
+{
+    "projectName": "agama-passkey",
+    "description": "Agama Passkey",
+    "type": "community",
+    "author": "Milton-Ch",
+    "version": "1.0.2",
+    "authorWebsite": "https://github.com/rizarsyi/expert-eureka",
+    "githubUri": "https://github.com/rizarsyi/expert-eureka",
+    "license": "apache-2.0",
+    "lastUpdated": "1702086312720",
+    "tags": [
+        "usb",
+        "fido",
+        "fido2",
+        "authentication",
+        "passkey"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "io.jans.agama.passkey.main": {}
+    },
+    "name": "agama-passkey"
+}
